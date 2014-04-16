@@ -18,11 +18,19 @@
 		$carriers = [
 			"alltel" => "message.alltel.com",
 			"att" => "txt.att.net",
+			"boost" => "myboostmobile.com",
+			"cellularone" => "cell1.textmsg.com",
+			"cingular" => "cingularme.com",
+			"comcast" => "comcastpcs.textmsg.com",
+			"metropcs" => "metropcs.sms.us",
 			"nextel" => "messaging.nextel.com",
 			"sprint" => "messaging.sprintpcs.com",
 			"tmobile" =>  "tmomail.net",
+			"tracfone" => "txt.att.net",
+			"uscellular" => "email.uscc.net",
 			"verizon" => "vtext.com",
-			"virginmobile" => "vmobl.com"
+			"virginmobile" => "vmobl.com",
+			"weblinkwireless" => "airmessage.net"
 		];
 		return $carriers;
 	}
