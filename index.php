@@ -54,5 +54,6 @@
 	}
 	?>
 	</div>
+	<div id="title" style="min-width:800px;font-size:25px;">Devon Bernard (2014)</div>
 	</body>
 </html>
